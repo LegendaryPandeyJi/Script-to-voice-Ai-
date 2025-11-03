@@ -1,0 +1,7 @@
+{
+  "name": "Script to Voice & Transcriber",
+  "description": "An application that converts text scripts to audible speech using advanced TTS and transcribes spoken words into text in real-time using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
